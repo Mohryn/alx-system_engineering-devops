@@ -1,0 +1,8 @@
+total 16
+drwxr-xr-x 2 root root 137 Jun 29 18:08 .
+drwxr-xr-x 5 root root 105 Jun 28 15:37 ..
+-rwxr--r-- 1 root root  36 Jun 29 17:45 0-hello_world
+-rw-r--r-- 1 root root  33 Jun 29 18:00 1-confused_smiley
+-rw-r--r-- 1 root root  12 Jun 29 18:08 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   0 Jun 29 18:08 ls_cwd_content
+-rw-r--r-- 1 root root  64 Jun 28 02:41 README.md
